@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Pacifico&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Pacifico', cursive;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.Salida {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    width: 30%;
+    height: 8rem;
+    margin: 1rem 35%;
+    border: 4px solid #000;
+    border-style: dashed;
+    border-radius: 13px;
+
+    font-size: 1.7rem;
+    letter-spacing: 0.2rem;
+
+}
+
+.Color-Div {
+    text-align: center;
+}
